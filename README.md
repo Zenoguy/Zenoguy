@@ -1,9 +1,8 @@
+<img src="https://media.tenor.com/ReQRC0WV_coAAAAj/minecraft-crab.gif" align="right" width="120" />
 # Hey, I'm Shreyan (ZenoGuy) 
 
 > Most problems aren't model problems — they're **system design problems in disguise**.
-<p align="center">
-  <img src="https://media.tenor.com/0zY8X3k4JQ8AAAAC/minecraft-crab.gif" width="260"/>
-</p>
+> 
 CS student building systems that don't just work, but make sense. I care about the gap between "it runs" and "it scales" — and I spend most of my time in that gap.
 
 ---
