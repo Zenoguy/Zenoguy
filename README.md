@@ -1,45 +1,67 @@
+# Hey, I'm Shreyan (ZenoGuy) 👋
 
-## 👋 Hey, I'm ZenoGuy
+> Most problems aren't model problems — they're **system design problems in disguise**.
 
-I build **systems that don’t just work — but make sense**.
-
-**Focus:**
-
-* LLMs & Conversational AI (multi-turn, Bengali)
-* ML Systems & Infra (cost-aware, modular pipelines)
-* Research Engineering (ideas → working systems)
-
-**Recent work:**
-
-* Multi-agent research pipelines (LLM-native, no RAG)
-* Hybrid inference systems cutting LLM cost by ~76%
-* Financial document intelligence (OCR + NLP + RAG)
-* Experimental MCTS / RL research on compute efficiency
-
-> Most problems aren’t model problems — they’re **system design problems in disguise**.
-
-**Currently exploring:** reasoning benchmarks, hybrid systems, efficient inference
+CS student building systems that don't just work, but make sense. I care about the gap between "it runs" and "it scales" — and I spend most of my time in that gap.
 
 ---
 
-Open to research, ML systems, and interesting collaborations.
+## 🔨 What I've Built
 
+### [SpendSight](https://github.com/zenoguy/spendsight) · Financial Transaction Intelligence
+4-stage hybrid classification pipeline (regex → heuristic → MiniLM → LLM) for financial NLP.
+Cut LLM inference costs by **~76%** without sacrificing accuracy on ambiguous transactions.
+`Python` `NLP` `HuggingFace` `Cost-Aware ML`
 
+### ZenoZero · AlphaZero-Style Reversi Engine *(private — paper in progress)*
+Topology-aware MCTS with a custom `DifficultyAllocator` using uncertainty signals for adaptive compute routing.
+Exploring how board topology interacts with tree search efficiency.
+`RL` `MCTS` `Python` `Research`
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyan-ghosh/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theZenoGuy) 
+### [VMARO](https://github.com/zenoguy/vmaro) · Vectorless Multi-Agent Research Orchestrator
+8-stage autonomous research pipeline with a Streamlit frontend. No RAG — pure LLM-native retrieval and synthesis.
+Built a preprocessing layer (Stage 00 Topic Normalizer) and relevance scoring for PubMed paper ranking.
+`Multi-Agent` `Streamlit` `Groq` `Moonshot AI`
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zenoguy&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=zenoguy&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zenoguy&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zenoguy&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+### Bengali QA Paraphrasing Pipeline
+Client-side HTML app that expands Bengali QA pairs into 4-variant sets via batched Claude API calls.
+Ships as a zero-dependency browser tool — no server, no setup.
+`Bengali NLP` `Anthropic API` `Vanilla JS`
 
 ---
-[![](https://komarev.com/ghpvc/?username=zenoguy&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I'm Thinking About
+
+- **Hybrid inference systems** — confidence-threshold routing between cheap and expensive models
+- **Cellular automata as computation** — maximal-cycle CAs, ΔG decomposition, unified cycle theory
+- **Efficient MCTS** — topology-aware search without blowing compute budgets
+- **Reasoning benchmarks** — what they actually measure vs. what we think they measure
+
+---
+
+## 🛠 How I Build
+
+My default stack is whatever fits the problem. I'm not religious about tools.
+
+**Primary:** `Python` · `JavaScript` · `Go` · `Bash`  
+**ML/AI:** `PyTorch` · `HuggingFace` · `LangChain` · `Anthropic SDK`  
+**Infra/Other:** `Streamlit` · `FastAPI` · `Docker` · `Linux`
+
+---
+
+## 📊 Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=zenoguy&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zenoguy&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160"/>
+</p>
+
+---
+
+## 📬 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyan-ghosh/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theZenoGuy)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/zenoguy)
+
+I'm open to **research collaborations, ML systems roles, and interesting problems** — especially anything at the intersection of efficiency, inference, and system design.
