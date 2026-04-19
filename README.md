@@ -1,4 +1,4 @@
-# Hey, I'm Shreyan (ZenoGuy) 👋
+# Hey, I'm Shreyan (ZenoGuy) 
 
 > Most problems aren't model problems — they're **system design problems in disguise**.
 
@@ -26,7 +26,7 @@ Built a preprocessing layer (Stage 00 Topic Normalizer) and relevance scoring fo
 
 ---
 
-## 🧠 What I'm Thinking About
+## What I'm Thinking About
 
 - **Hybrid inference systems** — confidence-threshold routing between cheap and expensive models
 - **Cellular automata as computation** — maximal-cycle CAs, ΔG decomposition, unified cycle theory
@@ -35,7 +35,7 @@ Built a preprocessing layer (Stage 00 Topic Normalizer) and relevance scoring fo
 
 ---
 
-## 🛠 How I Build
+## How I Build
 
 My default stack is whatever fits the problem. I'm not religious about tools.
 
@@ -45,7 +45,7 @@ My default stack is whatever fits the problem. I'm not religious about tools.
 
 ---
 
-## 📊 Activity
+## Activity
 
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=zenoguy&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
