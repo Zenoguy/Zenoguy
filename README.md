@@ -54,6 +54,8 @@ My default stack is whatever fits the problem. I'm not religious about tools.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zenoguy&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
 
+<img src="https://media.tenor.com/cgByUMFw0r8AAAAj/minecraft-minecraft-steve.gif" align="right" width="160" />
+
 ---
 
 ## 📬 Find Me
@@ -61,8 +63,6 @@ My default stack is whatever fits the problem. I'm not religious about tools.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyan-ghosh/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theZenoGuy)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/zenoguy)
-
-<img src="https://media.tenor.com/cgByUMFw0r8AAAAj/minecraft-minecraft-steve.gif" align="right" width="160" />
 
 I'm open to **research collaborations, ML systems roles, and interesting problems** — especially anything at the intersection of efficiency, inference, and system design. 
 
