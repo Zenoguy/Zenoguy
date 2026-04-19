@@ -60,7 +60,6 @@ My default stack is whatever fits the problem. I'm not religious about tools.
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theZenoGuy)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/zenoguy)
 
+<img src="https://media.tenor.com/cgByUMFw0r8AAAAj/minecraft-minecraft-steve.gif" width="160" />
 I'm open to **research collaborations, ML systems roles, and interesting problems** — especially anything at the intersection of efficiency, inference, and system design.
-<p align="center">
-  <img src="https://media.tenor.com/cgByUMFw0r8AAAAj/minecraft-minecraft-steve.gif" width="80" />
-</p>
+
