@@ -23,10 +23,6 @@ Exploring how board topology interacts with tree search efficiency.
 Built a preprocessing layer (Stage 00 Topic Normalizer) and relevance scoring for PubMed paper ranking.
 `Multi-Agent` `Streamlit` `Groq` `Moonshot AI`
 
-### Bengali QA Paraphrasing Pipeline
-Client-side HTML app that expands Bengali QA pairs into 4-variant sets via batched Claude API calls.
-Ships as a zero-dependency browser tool — no server, no setup.
-`Bengali NLP` `Anthropic API` `Vanilla JS`
 
 ---
 
