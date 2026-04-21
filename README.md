@@ -58,6 +58,10 @@ My default stack is whatever fits the problem. I'm not religious about tools.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zenoguy&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zenoguy&color=00d9ff&style=flat-square">
+</p>
+
 <img src="https://media.tenor.com/cgByUMFw0r8AAAAj/minecraft-minecraft-steve.gif" align="right" width="160" />
 
 ---
