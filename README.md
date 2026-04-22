@@ -50,7 +50,7 @@ My default stack is whatever fits the problem. I'm not religious about tools.
 ## Activy
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/zenoguy/zenoguy/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <p align="center">
