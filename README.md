@@ -56,6 +56,7 @@ My default stack is whatever fits the problem. I'm not religious about tools.
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=zenoguy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zenoguy&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=zenoguy7&theme=tokyonight&hide_border=true" />
 </p>
 
 
